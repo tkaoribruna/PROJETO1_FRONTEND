@@ -1,0 +1,262 @@
+body.imagemdefundo {
+  background-image: url('flor.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.menu-superior {
+  position: fixed;
+  top: 40px; 
+  left: 0;
+  width: 100%;
+  background-color: rgba(155, 21, 21, 0.832);
+  padding: 5px;
+  display: flex;
+  justify-content: right;
+  gap: 20px;
+}
+
+.menu-superior button {
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  padding: 10px 40px;
+  font-size: 18px;
+  font-family:inherit;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color:rgba(155, 21, 21, 0.832);
+  color: white;
+  text-align: center;
+  padding: 5px 5px;
+  font-size: 18px;
+  font-family: inherit;
+}
+
+
+.conteudopaginaprincipal {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; 
+  height: 670px;
+  padding-right:20px;     
+}
+
+.bloco-textopaginaprincipal {
+  text-align: left;
+}
+
+.bemvindo {
+  font-family: inherit;
+  color: #93011b;
+  display: block;
+}
+
+.slogan {
+  font-family: inherit;
+  font-size: 20px;
+  color: #93011b;
+  display: block;
+}
+
+.saibamais {
+  background-color: #93011b;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 30px;
+  font-size: 16px;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* PRODUTOS STYLE.CSS */
+.container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 100px;
+    }
+    h1 {
+      text-align: center;
+      color: #93011b;
+    }
+    .produtos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      margin-top: 40px;
+    }
+    .produto {
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.262);
+      overflow: hidden;
+      text-align: center;
+    }
+    .produto img {
+      width: 100%;
+      height: 370px;
+      object-fit: cover;
+    }
+    .produto h2 {
+      font-size: 20px;
+      font-family: inherit;
+      color: #93011b;
+      margin: 10px 0 5px;
+    }
+    .produto p {
+      font-size: 18px;
+      padding: 0 15px 15px;
+      color: #555;
+    }
+
+/* QUEM SOMOS STYLE.CSS */
+.imagem img {
+  border-radius: 50%;
+  position: relative;
+  top: 30px;
+  left: 10px;
+}
+
+.conteudoquemsomos {
+  display: flex;
+  justify-content: flex-end; 
+  align-items: center;       
+  height: 98vh;             
+  padding-right:20px;     
+}
+
+.bloco-textoquemsomos {
+  text-align: justify;
+  max-width: 500px;
+}
+
+.entreemcontato {
+  font-family: inherit;
+  font-size: 30px;
+  color: #93011b;
+  display: block;
+}
+
+.contato {
+  font-family: inherit;
+  font-size: 20px;
+  color: #93011b;
+  display: block;
+}
+
+
+.imagenscontato {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.contato-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.redessociais {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.formasdecontato {
+  font-size: 18px;
+  color: #93011b;
+  margin: 0;
+  font-family: inherit;
+}
+
+/* SAIBA MAIS STYLE.CSS */
+.conteudosaibamais {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  height: 1000px;
+  padding: 0 40px;
+  gap: 60px; 
+}
+
+.bloco-textosaibamais {
+  text-align: justify;
+  max-width: 1200px;
+  font-size: 20px;
+  color: #93011b;
+}
+
+.sobreafloratta {
+  font-family: inherit;
+  font-size: 30px;
+  color: #93011b;
+
+}
+
+  h3 {
+      color: #93011b;
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+ ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      position: relative;
+      padding-left: 30px;
+      margin-bottom: 12px;
+      font-size: 20px;
+      color: #93011b;
+    }
+
+    li::before {
+      content: "🌹";
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+
+/* TRABALHE CONOSCO STYLE.CSS (A lista do saiba mais também fará parte) */
+.conteudotrabalheconosco {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  height: 700px;
+  padding: 0 40px;
+  gap: 60px; 
+}
+
+.bloco-textotrabalheconosco {
+  text-align: justify;
+  max-width: 1000px;
+}
+
+.trabalheconosco {
+  font-family: inherit;
+  font-size: 30px;
+  color: #93011b;
+  display: block;
+}
+
+.perfil {
+  font-family: inherit;
+  font-size: 20px;
+  color: #93011b;
+  display: block;
+}
