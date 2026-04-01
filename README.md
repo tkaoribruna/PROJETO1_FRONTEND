@@ -1,4 +1,4 @@
-# 🌹 REPOSITÓRIO DO PROJETO - PROGRAMAÇÃO WEB FRONT-END 🌹
+# 🌹REPOSITÓRIO DO PROJETO DA DISCIPLINA WEB-FRONT-END 🌹
 ---
 
 O projeto tem como objetivo a criação de uma interface web para uma floricultura, apresentando produtos de forma visualmente atrativa e proporcionando uma navegação simples e intuitiva ao usuário.
@@ -14,4 +14,4 @@ O projeto tem como objetivo a criação de uma interface web para uma floricultu
 
 ## AUTORA
 
-Desenvolvido por **Bruna Kaori Takuti**
+Desenvolvido por **Bruna Kaori Takuti** - 2025-1
