@@ -18,8 +18,3 @@ O projeto tem como objetivo a criação de uma interface web para uma floricultu
 | Nome                          | Foto                                                                 | GitHub                                      |
 |-------------------------------|----------------------------------------------------------------------|---------------------------------------------|
 | Bruna Kaori Takuti            | <img src="https://github.com/tkaoribruna.png" width="100"/>          | https://github.com/tkaoribruna              |
-
----
-
-*Desenvolvido em 2025-1*
-
