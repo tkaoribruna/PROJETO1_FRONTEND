@@ -6,14 +6,14 @@ O projeto tem como objetivo a criação de uma interface web para uma floricultu
 
 ---
 
-### LINGUAGENS UTILIZADAS
+### Linguagens Utilizadas
 
 - HTML  
 - CSS  
 
 ---
 
-### AUTORA
+### Autora
 
 | Nome                          | Foto                                                                 | GitHub                                      |
 |-------------------------------|----------------------------------------------------------------------|---------------------------------------------|
