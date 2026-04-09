@@ -1,4 +1,4 @@
-# 🌹Projeto 1
+# Projeto 1
 ## Disciplina: Programação Web-Front-End - 2025 / 1º Semestre
 ---
 
